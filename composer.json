@@ -1,6 +1,6 @@
 {
     "name": "goalgorilla/co_social_template",
-    "description": "Social project template for composer based Open Social projects.",
+    "description": "Cofellow social project template for composer based Open Social projects.",
     "type": "project",
     "license": "GPL-2.0+",
     "minimum-stability": "dev",
